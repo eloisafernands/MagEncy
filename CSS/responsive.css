@@ -1,0 +1,208 @@
+@media(max-width: 768px) {
+
+    /*global*/
+    .container {
+        padding: 20px 0;
+    }
+
+    /*slider*/
+    #mainSlider .carousel-inner,
+    #mainSlider .carousel-item {
+        height: auto;
+    }
+
+    #mainSlider .carousel-caption h2 {
+        font-size: 28px;
+    }
+
+    #mainSlider .carousel-caption p {
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+
+    .carousel-caption {
+        left: 10%;
+        right: 10%;
+    }
+
+    /*Agência*/
+    #about-area img {
+        margin-top: 100px;
+    }
+
+    /*Dados - Loader*/
+    .circle-box {
+        padding: 0 20px;
+    }
+
+    #data-area p {
+        font-size: 20px;
+    }
+
+    /*Trabalhe conosco*/
+    .apply-box h4,
+    .apply-box p {
+        padding: 0px 25px;
+    }
+
+    /*Newsletter*/
+    #news-area p {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #email-input {
+        width: 70%;
+    }
+
+    /*Call to action*/
+    #news-area p {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #email-input {
+        width: 70%;
+    }
+
+    #call-area {
+        margin-top: 30px;
+    }
+
+    #call-area .container {
+        padding: 30px;
+    }
+
+    #call-area p,
+    #call-area #call-btn {
+        font-size: 16px;
+    }
+
+}
+
+@media(max-width: 425px) {
+
+    /*global*/
+    .container {
+        padding: 10px 0;
+    }
+
+    /* slider */
+    #mainSlider{
+        margin-top: 90px;
+    }
+
+    #mainSlider .carousel-inner,
+    #mainSlider .carousel-item {
+        height: auto;
+    }
+
+    #mainSlider .carousel-caption h2 {
+        font-size: 18px;
+    }
+
+    #mainSlider .carousel-caption p {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+
+    .carousel-caption {
+        left: 10%;
+        right: 10%;
+        top: 5%;
+    }
+
+    .main-btn{
+        font-size: 10px;
+        width: 80px;
+    }
+
+    .d-md-block {
+        display: block!important;
+    }
+
+    /*Agencia*/
+    #about-area img {
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .main-title{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+    .about-title{
+        text-align: center;
+    }
+
+    /*Dados - Loader*/
+    .circle-box{
+        margin-top: 15px;
+        width: 50%;
+        padding: 0 50px;
+    }
+
+    #data-area p {
+        font-size: 20px;
+    }
+
+    .progressbar-text {
+        font-size: 25px;
+    }
+
+    /*Time*/
+    .col-md-3{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    /*Trabalhe conosco*/
+    #apply-area{
+        height: auto;
+    }
+
+    #company-img{
+        display: none;
+    }
+
+    /*Portfolio*/
+    #portfolio-area .filter-btn{
+        margin-bottom: 20px;
+    }
+
+    #filter-btn-box {
+        margin-bottom: 20px;
+    }
+
+    .project-box{
+        width: 50%;
+    }
+
+    /*News*/
+    #news-area p{
+        font-size: 16px;
+    }
+
+    #email-input {
+        width: 80%;
+    }
+
+    /*Call to action*/
+    #call-area p, #call-area #call-btn{
+        font-size: 14px;
+        letter-spacing: 0;
+        padding: 0;
+        margin: 0;
+        width: 50%;
+    }
+
+    /*Rodapé*/
+    .contact-box{
+        border: none;
+        margin-bottom: 0;
+    }
+}
