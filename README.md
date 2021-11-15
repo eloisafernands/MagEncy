@@ -1,2 +1,2 @@
-# MagEncy
-Projeto de agência web
+#MagEncy
+Projeto de agência web, desenvolvido em curso de bootstrap. 
